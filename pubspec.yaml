@@ -82,6 +82,7 @@ flutter:
     - assets/img/mountain.jpg
     - assets/img/mountain_stars.jpg
     - assets/img/river.jpg
+    - assets/img/profile.jpg
   fonts:
      - family: Lato
        fonts:
